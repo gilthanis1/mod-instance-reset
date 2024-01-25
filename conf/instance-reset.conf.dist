@@ -21,4 +21,4 @@ instanceReset.NormalModeOnly = false
 # default: true
 #
 
-instanceReset.Announcer = true
+instanceReset.Announcer = false
